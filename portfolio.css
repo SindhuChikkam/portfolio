@@ -1,0 +1,30 @@
+ody{
+    text-align: center;
+}
+li{
+    display:inline;
+    margin-right:50px;
+}
+header{
+    background-color:gray;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+img{
+    border-radius: 50%
+}
+.field{
+    padding-right: 2px;
+    display: inline-block;
+    padding-bottom: -12px;
+}
+.field1{
+    padding-right: 2px;
+    display: inline-block;
+}
+
+
